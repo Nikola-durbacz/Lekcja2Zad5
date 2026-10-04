@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Lekcjazad5</string>
+    <string name="app_name">Ekran logowania</string>
+    <string name="email">E-mail</string>
+    <string name="password">Hasło</string>
+    <string name="remember_me">Zapamiętaj mnie</string>
+    <string name="login">Zaloguj</string>
+    <string name="forgot_password">Nie pamiętam hasła</string>
 </resources>
